@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![todolist_demo](https://user-images.githubusercontent.com/62227321/194763391-d51fd297-dc15-4007-80bd-c3512beac898.gif)
+![daily-journal_demo](https://user-images.githubusercontent.com/62227321/195998609-9e292abf-419f-439d-8417-0cd0a1f93ea9.gif)
 
 Daily Journal is a journaling app that can be used as a tool for recording daily emotions and activities, milestones or anything thats worthy enough to mention in a journal.
 
