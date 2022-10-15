@@ -8,7 +8,7 @@
     <img src="/public/img/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">To-Do-List</h3>
+  <h3 align="center">Daily Journal</h3>
 
   <p align="center">
     A daily journaling app.  
